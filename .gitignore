@@ -1,0 +1,10 @@
+*.gba
+*.sav
+*.sgm
+*.ss?
+*.exe
+*.dll
+.local/
+inputs/
+build/
+saves/
