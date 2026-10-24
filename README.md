@@ -51,7 +51,7 @@ ZIP SHA-256: `82c2cca8e226e1c5e932c0a94e4d02336c55a02b1e4b3340bc6b944c5e069eb8`
 
 ## 블로그 안내
 
-한글패치 소개·설치 가이드 페이지는 현재 초안으로 준비 중이다. 공개 후 이곳에 연결한다.
+[한글 소개·설치 가이드](https://mntkim.com/rockman-zero-3-korean-patch-v1-0-0/) · [English guide](https://mntkim.com/en/rockman-zero-3-korean-patch-v1-0-0/)
 
 ## 제작 정보
 
